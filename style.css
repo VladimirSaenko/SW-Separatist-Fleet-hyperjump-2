@@ -56,7 +56,7 @@ section h2 {
 
     50% {
         opacity: 1;
-        background: url(images/separatistNavyFleet.jpg);
+        background: url(images/separatistFleet.jpg);
         background-position: center;
         background-attachment: fixed;
         background-size: auto;
@@ -65,7 +65,7 @@ section h2 {
     100% {
         opacity: 1;
         transform: scale(1) translateY(0px);
-        background: url(images/separatistNavyFleet.jpg);
+        background: url(images/separatistFleet.jpg);
         background-position: center;
         background-size: auto;
         background-attachment: fixed;
